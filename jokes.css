@@ -1,31 +1,38 @@
 body {
-    
+    margin: 17%;
     text-align: center;
     background-color: rgb(221, 112, 112);
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
+   
 }
 header {
     
 
     color: rgb(245, 245, 178);
-    text-shadow: 2px 0 0 rgb(226, 146, 202);
+    text-shadow: 4px 0 0 rgb(226, 146, 202);
    
-   
-
+    font-size: 30px;
 }
 h2{
     background-image: linear-gradient(pink, rgb(246, 246, 170));
     padding: 1rem;
-    border-radius: 5px 5px 5px 5px;
+    border-radius: 58px 58px 58px 58px;
     border: 1px solid black;
-
+    font-size: 28px;
+    margin: 50px auto;
+    max-width: 650px;
 }
 p {
     color: rgb(226, 211, 213);
+    font-size: 19px;
+    
 }
 button {
    background-color: rgb(248, 248, 170);
-   padding: 1rem;
+   padding: 0.7rem;
+   font-weight: bold;
    border-radius: 28px 28px 28px 28px;
+   font-size: 15px;
+   height: 50px;
+   width: 125px;
 }
